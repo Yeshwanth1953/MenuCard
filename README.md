@@ -86,6 +86,12 @@ https://yeshwanth1953.github.io/MenuCard/
 
 ---
 
+## 📸 Screenshots
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9e4e892d-f340-4f81-b259-0c4c8590ebc1" />
+
+---
+
 ## 🔮 Future Improvements
 
 * 🛒 Add cart functionality
